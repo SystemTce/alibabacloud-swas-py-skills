@@ -99,9 +99,8 @@ cp -r alibabacloud-swas-py-skills/alibabacloud-swas ~/.claude/skills/
 
 ## 相关资源
 
-- [阿里云 SWAS 官方文档](https://help.aliyun.com/product/100001.html)
-- [Python SDK GitHub 仓库](https://github.com/alibabacloud-openapi/alibabacloud-swas-open20200601-python)
-- [TeaDSL 文档](https://github.com/alibabacloud-openapi/teadsl)
+- [阿里云 SWAS 官方文档](https://api.aliyun.com/api/SWAS-OPEN/2020-06-01/CreateInstances)
+- [Python SDK GitHub 仓库](https://github.com/aliyun/alibabacloud-python-sdk/tree/master/swas-open-20200601)
 
 ## 许可证
 
